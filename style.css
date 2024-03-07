@@ -130,7 +130,7 @@ body .greeting {
   justify-content: center;
   top: 80%;
   color: rgb(10, 111, 220);
- 
+  font-style: ;
   font-weight: bold;
 }
 body .greeting .s {
@@ -160,17 +160,17 @@ body .greeting1 {
   justify-content: center;
   top: 100%;
   color: rgb(10, 111, 220);
-  
+  font-style: ;
   font-weight: bold;
 
 }
 body .greeting1 .s {
   display: table-cell;
-  padding: 0 1px;
+  padding: 0 -1px;
   opacity: 0;
 }
 body .greeting1 .s.space {
-  padding-left: 7px;
+  padding-left: 11px;
 }
 body .greeting1 .s.squeeze {
   margin-left: -2px;
